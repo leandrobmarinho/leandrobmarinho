@@ -29,7 +29,7 @@ Additionally, at present, I supervise 02 master's level students.
   - Mobile Systems with Artificial Intelligence to aid in patrolling (Facial recognition, LPR, big data analysis on maps, mobile and web apps)
   - *Skills:* Computer Vision, Microsoft Azure, DevOps, Facial recognition, Dlib, Apache Kafka, Docker
 
-- **Smart E-TEC for Ministry of Education of Brazil** (September, 2022 - August, 2023)
+- **Smart E-MEC for Ministry of Education of Brazil** (September, 2022 - August, 2023)
   - Machine Learning, Statistics, and Data Science techniques to facilitate the management and monitoring of educational institutions in Brazil.
   - *Skills:* Scikit-Learn, MLflow, Pandas, Apache Airflow, Docker
 
