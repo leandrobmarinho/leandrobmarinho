@@ -21,7 +21,8 @@ And in the field of Computer Theory in:
 Additionally, at present, I supervise 02 master's level students.
 
 ### Main Projects:
-- **CT Lung Perfusion Map for Siemens Healthineers** (March, 2024 - present)
+
+- **CT Lung Perfusion Map for Siemens Healthineers** (March, 2024 - January, 2025)
   - Development of a computer vision system for generating Lung Perfusion Maps using Generative Adversarial Networks in computed tomography images
   - *Skills:* Computer Vision, MeVisLab, 3D Slicer, Lung segmentation, Image Registration, Generative Adversarial Networks, VTK, PyTorch
 
