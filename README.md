@@ -1,30 +1,34 @@
-I hold a Ph.D. in Teleinformatics Engineering (2021) from the Federal University of Ceará (UFC), a Master's degree in Computer Science (2017), and a Bachelor's degree in Computer Science (2014) from the Federal Institute of Education, Science and Technology of Ceará (IFCE).
+I hold a Ph.D. in Teleinformatics Engineering (2021), a Master’s in Computer Science (2017), and a Bachelor’s in Computer Science (2014), all supported by CAPES and FUNCAP scholarships. My academic journey provided a solid foundation in Data Science and Computer Vision, areas where I’ve applied advanced research to real-world projects, including predictive models and innovative Computer Vision solutions for healthcare, surveillance, and automation.
 
-Currently, I teach in the following courses:
-- Academic Master's in Computer Science (PPGCC) from IFCE; and
-- Technical courses in Informatics at the Guaramiranga campus.
+Currently, I teach in the Academic Master's in Computer Science (PPGCC) and undergraduate Computer Science courses at IFCE.
 
-I was a CAPES and FUNCAP scholarship holder during both my Master's and Ph.D. studies 🇧🇷. I have experience in the field of Methodology and Techniques of Computing in:
-- Programming Languages;
-- Software Development; and
-- Web Development;
-And in the field of Computer Theory in:
-- Artificial Intelligence;
-- Data Science;
-- Computer Vision; and
-- Deep Learning.
+My expertise spans:
+- **Data Science** (Machine Learning, Statistical Modeling, Clustering, and Predictive Analytics);
+- **Computer Vision** (Deep Learning, Image Processing, Object Detection, and Segmentation);
+- **Artificial Intelligence** (model design, optimization, and deployment); and
+- **Software Development** (system design, scalable implementations, and cloud platforms such as Azure, AWS, Huawei Cloud, and Databricks).
 
+<!---
 ### Regarding human resources development, I have completed:
 - 01 undergraduate thesis supervision;
 - 04 undergraduate research internships (PIBIC); and
 - 02 supervision of technological development and innovation internships (PIBITI).
 Additionally, at present, I supervise 02 master's level students.
+-->
 
 ### Main Projects:
 
 - **CT Lung Perfusion Map for Siemens Healthineers** (March, 2024 - January, 2025)
   - Development of a computer vision system for generating Lung Perfusion Maps using Generative Adversarial Networks in computed tomography images
   - *Skills:* Computer Vision, MeVisLab, 3D Slicer, Lung segmentation, Image Registration, Generative Adversarial Networks, VTK, PyTorch
+
+- **Out-of-Stock Analysis and Prediction for SolarBR Coca-Cola** (July, 2023 - January, 2024)
+  - This project focused on developing and optimizing predictive models to identify, classify, and prevent stock-out events in Point of Sale Displays (PDVs) and specific Stock Keeping Units (SKUs)
+  - *Skills:* Machine Learning, PySpark, Databricks, Scikit-learn, Pandas, Clustering, Classification, Regression, and Prediction.
+
+- **Hierarchical classification system with rejection option for a financial solutions company** (October, 2022 - November, 2023)
+  - Development of an intelligent system to assist credit approval decisions in receivables anticipation using machine learning
+  - *Skills:* Machine Learning, Scikit-learn, MLflow, FastAPI, Docker, Financial solution
 
 - **Intelligent Mobile System for Federal Highway Police of Brazil** (November, 2021 - February, 2023)
   - Mobile Systems with Artificial Intelligence to aid in patrolling (Facial recognition, LPR, big data analysis on maps, mobile and web apps)
