@@ -64,9 +64,9 @@ Additionally, at present, I supervise 02 master's level students.
 
 
 ### (selected) Publications:
-- [1st IEEE Latin American Conference on Internet of Things](https://www.lc-iot2025.com/) Enhanced Recognition of Brazilian Sign Language Using Ensemble Deep Learning Models for IoT Applications. Gabriel C. Silva, H. Leonardo M. M., **Leandro B. Marinho** , P. P. Rebouças Filho, Izaquela L Liberato. In: **IEEE Latin Conference on IoT (LCIoT)**, Brazil, 2025.
+- [Conference Proceedings](https://www.lc-iot2025.com/) Enhanced Recognition of Brazilian Sign Language Using Ensemble Deep Learning Models for IoT Applications. Gabriel C. Silva, H. Leonardo M. M., **Leandro B. Marinho** , P. P. Rebouças Filho, Izaquela L Liberato. In: **IEEE Latin Conference on IoT (LCIoT)**, Brazil, 2025.
 
- - [Conference Proceedings](https://cbms-conference.org/)
+ - [DOI](https://ieeexplore.ieee.org/document/10600726)
   A Novel Segmentation Approach Utilizing Object Detection Techniques as Prompts for a Zero-Shot System in Hemorrhagic Stroke Segmentation in CT Images. Joel R. Michaliszen J., João C. N. Fernandes, Calleo B. Barroso, **Leandro B. Marinho**, P. P. Rebouças Filho. In: **Computer-Based Medical Systems (CBMS)**, Mexico, 2024
 
 - [DOI](https://doi.org/10.1016/j.future.2019.03.025)
