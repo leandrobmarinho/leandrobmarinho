@@ -26,7 +26,7 @@ Additionally, at present, I supervise 02 master's level students.
   - This project focused on developing and optimizing predictive models to identify, classify, and prevent stock-out events in Point of Sale Displays (PDVs) and specific Stock Keeping Units (SKUs)
   - *Skills:* Machine Learning, PySpark, Databricks, Scikit-learn, Pandas, Clustering, Classification, Regression, and Prediction.
 
-- **Hierarchical classification system with rejection option for a financial solutions company** (October, 2022 - November, 2023)
+- **Hierarchical classification system with rejection option for a fintech company, M7 Invest** (October, 2022 - November, 2023)
   - Development of an intelligent system to assist credit approval decisions in receivables anticipation using machine learning
   - *Skills:* Machine Learning, Scikit-learn, MLflow, FastAPI, Docker, Financial solution
 
