@@ -18,6 +18,14 @@ Additionally, at present, I supervise 02 master's level students.
 
 ### Main Projects:
 
+- **Metative (Education Company)** (February 2025 - Present)
+  - Development of an AI system using LLMs to evaluate and summarize feedback from student internship and residency programs, with a focus on attitudinal competencies such as interpersonal skills.
+  - **Skills**: Natural Language Processing, LangChain, LLMs, BERT, GPT-4, Sentiment Analysis, Graph Databases (Memgraph), Python, Tableau, Power BI.
+
+- **Corre LTDA (Sports Advisory)** (January 2025 - Present)
+  - Development of an AI-driven platform for personalized sports performance assessment, aiming to optimize athlete performance by analyzing key metrics, training data, and recovery patterns.
+  - Skills: Data Analysis, Machine Learning, Python, Sports Analytics.
+
 - **CT Lung Perfusion Map for Siemens Healthineers** (March, 2024 - January, 2025)
   - Development of a computer vision system for generating Lung Perfusion Maps using Generative Adversarial Networks in computed tomography images
   - *Skills:* Computer Vision, MeVisLab, 3D Slicer, Lung segmentation, Image Registration, Generative Adversarial Networks, VTK, PyTorch
