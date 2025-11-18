@@ -70,6 +70,18 @@ Additionally, at present, I supervise 02 master's level students.
   - Researched the use of computer vision techniques along with rejection option for mobile robot localization in indoor environments.
   - *Skills:* Computer Vision, Machine Learning, Mobile robot localization, Indoor localization
 
+### **Open-Source Contribution – Plainsight OpenFilter**
+
+I actively contribute to **OpenFilter**, an open-source computer-vision runtime developed by Plainsight.  
+My contributions include helping build the **ChatTag / filter-chatgpt-annotator** tool — an LLM-assisted image annotation system that integrates GPT-based vision models to streamline and accelerate dataset labeling workflows.
+
+This tool enables natural-language–driven annotation, schema-constrained labeling, and multi-pass consensus strategies, bringing intelligent and scalable data-preparation capabilities to the OpenFilter ecosystem.
+
+- **GitHub:** https://github.com/PlainsightAI/filter-chatgpt-annotator  
+- **Blog Post:** https://plainsight.ai/plainsight-blog/chattag-bringing-chatgpt-vision-to-image-annotation-in-openfilter
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/484c0918-fe73-47ac-89b8-eb54491e0e10" />
+
+
 
 ### (selected) Publications:
 - [Conference Proceedings](https://www.lc-iot2025.com/) Enhanced Recognition of Brazilian Sign Language Using Ensemble Deep Learning Models for IoT Applications. Gabriel C. Silva, H. Leonardo M. M., **Leandro B. Marinho** , P. P. Rebouças Filho, Izaquela L Liberato. In: **IEEE Latin Conference on IoT (LCIoT)**, Brazil, 2025.
