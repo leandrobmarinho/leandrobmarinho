@@ -84,8 +84,6 @@ This tool enables natural-language–driven annotation, schema-constrained label
 
 
 ### (selected) Publications:
-- [Conference Proceedings](https://www.lc-iot2025.com/) Enhanced Recognition of Brazilian Sign Language Using Ensemble Deep Learning Models for IoT Applications. Gabriel C. Silva, H. Leonardo M. M., **Leandro B. Marinho** , P. P. Rebouças Filho, Izaquela L Liberato. In: **IEEE Latin Conference on IoT (LCIoT)**, Brazil, 2025.
-
  - [DOI](https://ieeexplore.ieee.org/document/10600726)
   A Novel Segmentation Approach Utilizing Object Detection Techniques as Prompts for a Zero-Shot System in Hemorrhagic Stroke Segmentation in CT Images. Joel R. Michaliszen J., João C. N. Fernandes, Calleo B. Barroso, **Leandro B. Marinho**, P. P. Rebouças Filho. In: **Computer-Based Medical Systems (CBMS)**, Mexico, 2024
 
